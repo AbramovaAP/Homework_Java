@@ -1,7 +1,7 @@
 import java.io.*;
 
 public class lib {
-    // Считывание строк с файла
+    // Считывание строк с файла 
     public static String[] ReadLineFromFile(String pathway) throws Exception {
         BufferedReader br = new BufferedReader(new FileReader(pathway));
         String str;
