@@ -6,7 +6,7 @@ import java.util.Set;
 public class Main_laptop_model {
         public static void main(String[] args) {
 
-                // Создание объектов класса Laptop
+                // Создание объектов класса Laptop:
                 Laptop hp_pailion_g6 = new Laptop("hp_pailion_g6", 16, 500, "16", "Windows", "black");
 
                 Laptop samsung_a52 = new Laptop("samsung_a52", 18, 300, "8", "Windows", "black");
@@ -21,7 +21,7 @@ public class Main_laptop_model {
 
                 Laptop acer_air5 = new Laptop("acer_air5", 19, 600, "8", "Windows", "black");
 
-                // Создание множества
+                // Создание множества:
                 Set<Laptop> laptop = new HashSet<>();
                 laptop.add(hp_pailion_g6);
                 laptop.add(samsung_a52);
