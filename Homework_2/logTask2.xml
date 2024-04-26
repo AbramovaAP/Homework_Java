@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-04-24T12:04:09.023244900Z</date>
+  <millis>1713960249023</millis>
+  <nanos>244900</nanos>
+  <sequence>0</sequence>
+  <logger>Task2</logger>
+  <level>INFO</level>
+  <class>Task2</class>
+  <method>bubbleSort</method>
+  <thread>1</thread>
+  <message>[46, 69, 50, 6, 17, 76, 79, 92, 98, 29]</message>
+</record>
+<record>
+  <date>2024-04-24T12:04:09.044528400Z</date>
+  <millis>1713960249044</millis>
+  <nanos>528400</nanos>
+  <sequence>1</sequence>
+  <logger>Task2</logger>
+  <level>INFO</level>
+  <class>Task2</class>
+  <method>bubbleSort</method>
+  <thread>1</thread>
+  <message>[46, 50, 69, 6, 17, 76, 79, 92, 98, 29]</message>
+</record>
+<record>
+  <date>2024-04-24T12:04:09.044528400Z</date>
+  <millis>1713960249044</millis>
+  <nanos>528400</nanos>
+  <sequence>2</sequence>
+  <logger>Task2</logger>
+  <level>INFO</level>
+  <class>Task2</class>
+  <method>bubbleSort</method>
+  <thread>1</thread>
+  <message>[46, 50, 6, 69, 17, 76, 79, 92, 98, 29]</message>
+</record>
+<record>
+  <date>2024-04-24T12:04:09.044528400Z</date>
+  <millis>1713960249044</millis>
+  <nanos>528400</nanos>
+  <sequence>3</sequence>
+  <logger>Task2</logger>
+  <level>INFO</level>
+  <class>Task2</class>
+  <method>bubbleSort</method>
+  <thread>1</thread>
+  <message>[46, 50, 6, 17, 69, 76, 79, 92, 98, 29]</message>
+</record>
+<record>
+  <date>2024-04-24T12:04:09.044528400Z</date>
+  <millis>1713960249044</millis>
+  <nanos>528400</nanos>
+  <sequence>4</sequence>
+  <logger>Task2</logger>
+  <level>INFO</level>
+  <class>Task2</class>
+  <method>bubbleSort</method>
+  <thread>1</thread>
+  <message>[46, 50, 6, 17, 69, 76, 79, 92, 29, 98]</message>
+</record>
+<record>
+  <date>2024-04-24T12:04:09.044528400Z</date>
+  <millis>1713960249044</millis>
+  <nanos>528400</nanos>
+  <sequence>5</sequence>
+  <logger>Task2</logger>
+  <level>INFO</level>
+  <class>Task2</class>
+  <method>bubbleSort</method>
+  <thread>1</thread>
+  <message>[46, 6, 50, 17, 69, 76, 79, 92, 29, 98]</message>
+</record>
+<record>
+  <date>2024-04-24T12:04:09.044528400Z</date>
+  <millis>1713960249044</millis>
+  <nanos>528400</nanos>
+  <sequence>6</sequence>
+  <logger>Task2</logger>
+  <level>INFO</level>
+  <class>Task2</class>
+  <method>bubbleSort</method>
+  <thread>1</thread>
+  <message>[46, 6, 17, 50, 69, 76, 79, 92, 29, 98]</message>
+</record>
+<record>
+  <date>2024-04-24T12:04:09.044528400Z</date>
+  <millis>1713960249044</millis>
+  <nanos>528400</nanos>
+  <sequence>7</sequence>
+  <logger>Task2</logger>
+  <level>INFO</level>
+  <class>Task2</class>
+  <method>bubbleSort</method>
+  <thread>1</thread>
+  <message>[46, 6, 17, 50, 69, 76, 79, 29, 92, 98]</message>
+</record>
+<record>
+  <date>2024-04-24T12:04:09.054516700Z</date>
+  <millis>1713960249054</millis>
+  <nanos>516700</nanos>
+  <sequence>8</sequence>
+  <logger>Task2</logger>
+  <level>INFO</level>
+  <class>Task2</class>
+  <method>bubbleSort</method>
+  <thread>1</thread>
+  <message>[6, 46, 17, 50, 69, 76, 79, 29, 92, 98]</message>
+</record>
+<record>
+  <date>2024-04-24T12:04:09.054516700Z</date>
+  <millis>1713960249054</millis>
+  <nanos>516700</nanos>
+  <sequence>9</sequence>
+  <logger>Task2</logger>
+  <level>INFO</level>
+  <class>Task2</class>
+  <method>bubbleSort</method>
+  <thread>1</thread>
+  <message>[6, 17, 46, 50, 69, 76, 79, 29, 92, 98]</message>
+</record>
+<record>
+  <date>2024-04-24T12:04:09.054516700Z</date>
+  <millis>1713960249054</millis>
+  <nanos>516700</nanos>
+  <sequence>10</sequence>
+  <logger>Task2</logger>
+  <level>INFO</level>
+  <class>Task2</class>
+  <method>bubbleSort</method>
+  <thread>1</thread>
+  <message>[6, 17, 46, 50, 69, 76, 29, 79, 92, 98]</message>
+</record>
+<record>
+  <date>2024-04-24T12:04:09.054516700Z</date>
+  <millis>1713960249054</millis>
+  <nanos>516700</nanos>
+  <sequence>11</sequence>
+  <logger>Task2</logger>
+  <level>INFO</level>
+  <class>Task2</class>
+  <method>bubbleSort</method>
+  <thread>1</thread>
+  <message>[6, 17, 46, 50, 69, 29, 76, 79, 92, 98]</message>
+</record>
+<record>
+  <date>2024-04-24T12:04:09.054516700Z</date>
+  <millis>1713960249054</millis>
+  <nanos>516700</nanos>
+  <sequence>12</sequence>
+  <logger>Task2</logger>
+  <level>INFO</level>
+  <class>Task2</class>
+  <method>bubbleSort</method>
+  <thread>1</thread>
+  <message>[6, 17, 46, 50, 29, 69, 76, 79, 92, 98]</message>
+</record>
+<record>
+  <date>2024-04-24T12:04:09.054516700Z</date>
+  <millis>1713960249054</millis>
+  <nanos>516700</nanos>
+  <sequence>13</sequence>
+  <logger>Task2</logger>
+  <level>INFO</level>
+  <class>Task2</class>
+  <method>bubbleSort</method>
+  <thread>1</thread>
+  <message>[6, 17, 46, 29, 50, 69, 76, 79, 92, 98]</message>
+</record>
+<record>
+  <date>2024-04-24T12:04:09.059553Z</date>
+  <millis>1713960249059</millis>
+  <nanos>553000</nanos>
+  <sequence>14</sequence>
+  <logger>Task2</logger>
+  <level>INFO</level>
+  <class>Task2</class>
+  <method>bubbleSort</method>
+  <thread>1</thread>
+  <message>[6, 17, 29, 46, 50, 69, 76, 79, 92, 98]</message>
+</record>
+</log>
